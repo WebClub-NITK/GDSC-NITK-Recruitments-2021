@@ -91,6 +91,31 @@ Functionalities that app should contain:
 2. Bonus points if sending emails feature is implemented.
 3. Feel free to add any new features.
 
+## Task ID: IRIS Mobile App design
+
+#### `UI UX Design`
+
+Mentors: [@Sriram](https://github.com/Sriram2001) (+91 7975610644), [@Rashmith](https://github.com/rashmiths) (+91 6362402817)
+
+Tag: `Easy-Medium`
+
+### Description
+
+[IRIS](https://iris.nitk.ac.in/) and it's corresponding [mobile app](https://play.google.com/store/apps/details?id=in.ac.nitk.iris.main&hl=en_IN&gl=US) are applications that make lives easier for every NITKian. In this task, you are required to design and come up with a prototype for the mobile application in your own unique design language. You can also implement modules that has not yet been released in the mobile application such as the CDC or CEMS. You may use free tools such as Figma or Adobe XD for the same.
+
+### Useful resources:
+
+- https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+- https://trydesignlab.com/figma-101-course/create-and-test-a-prototype/
+- https://www.adobe.com/in/products/xd/learn/get-started-xd-prototype.html
+- https://xd.adobe.com/ideas/process/wireframing/guide-to-creating-mobile-app-wireframes/
+
+### Tips
+
+1. This task mainly tests your design skills. Uniqueness and usability are appreciated.
+2. Bonus points if the design/prototype is interactive.
+3. Code implementation is not required.
+
 ## Task ID: Web Scraper
 #### `Backend` `Frontend`
 
