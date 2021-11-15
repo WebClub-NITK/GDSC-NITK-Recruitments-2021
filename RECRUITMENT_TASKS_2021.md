@@ -90,3 +90,17 @@ Functionalities that app should contain:
 1. Bonus points for good UI/UX.
 2. Bonus points if sending emails feature is implemented.
 3. Feel free to add any new features.
+
+## Task ID: Web Scraper
+#### `Backend` `Frontend`
+
+Mentors: [@GunukulaNiharika](https://github.com/GunukulaNiharika) (+91 9014873349)
+
+Tag: `Easy`
+
+### Description
+Create a simple web scraper, It should take the URL and scrape the useful data from the website using Nodejs (Feel free to use any framework).
+* Create Simple UI to take URL as input and display extracted data.
+
+### Useful resources:
+* Nodejs - https://nodejs.org/en/docs/
