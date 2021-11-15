@@ -6,7 +6,7 @@
 
 #
 ### Recruitment Tasks
-* **Visit** : [Tasks](https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md)
+* **Visit** : [Tasks](./RECRUITMENT_TASKS_2021.md)
 * Submission Deadline: **<--->**
 
 ### Instructions
