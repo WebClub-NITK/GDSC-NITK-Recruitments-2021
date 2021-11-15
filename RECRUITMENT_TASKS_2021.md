@@ -154,7 +154,7 @@ Tag: `Easy`
 
 ### Description
 
-Discord is a popular real-time messaging platform with robust support for programmable bots. Bots are ubiquitous on Discord and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more.In this task, you are expected to create a python bot that acts a dictionary.Users should be able to find definition,synonyms,partofspeech using different commands. For Example command all should display all th info regarding the word and command synonym dislays only similar words.Any additional features are appreciated and graded accordingly.You can use any dictionary api of your choice.
+Discord is a popular real-time messaging platform with robust support for programmable bots. Bots are ubiquitous on Discord and provide a wide range of services, including moderation assistance, games, music, internet searches, payment processing, and more.In this task, you are expected to create a python bot that acts a dictionary.Users should be able to find definition,synonyms,partofspeech using different commands. For Example command all should display all th info regarding the word and command synonym dislays only similar words.Any additional features are appreciated and graded accordingly.You can use any dictionary api of your choice. Ex: https://dictionaryapi.dev/
 
 ### Useful resources:
 
