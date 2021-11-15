@@ -104,3 +104,4 @@ Create a simple web scraper, It should take the URL and scrape the useful data f
 
 ### Useful resources:
 * Nodejs - https://nodejs.org/en/docs/
+* Frontend (HTML, CSS, JS) - https://www.w3schools.com/
