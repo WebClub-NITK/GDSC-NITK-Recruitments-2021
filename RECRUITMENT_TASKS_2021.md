@@ -67,5 +67,26 @@ Tag: `Medium`
 1. Follow good programming principles.
 2. Bonus points for any additional features.
 
+## Task ID: Mail Box
+#### `Web Development` `App Development` `APIs`
 
+Mentors: [@GunukulaNiharika](https://github.com/GunukulaNiharika) (+91 9014873349)
 
+Tag: `Easy`
+
+### Description
+Build a Mobile application or a Web application to fetch emails using Gmail API.
+Functionalities that app should contain:
+* User should be to create an account using Email.
+* Use GMAIL api to fetch the mails.
+* Bonus : User should be able to send emails.
+
+### Useful resources:
+* Android - https://developer.android.com/training/basics/firstapp
+* Gmail API - https://developers.google.com/gmail/api
+* Web Development(HTML, CSS, JS) - https://www.w3schools.com/
+
+### Tips
+1. Bonus points for good UI/UX.
+2. Bonus points if sending emails feature is implemented.
+3. Feel free to add any new features.
