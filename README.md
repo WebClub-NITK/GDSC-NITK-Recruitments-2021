@@ -7,7 +7,7 @@
 #
 ### Recruitment Tasks
 * **Visit** : [Tasks](./RECRUITMENT_TASKS_2021.md)
-* Submission Deadline: **<--->**
+* Submission Deadline: **to be updated**
 
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
