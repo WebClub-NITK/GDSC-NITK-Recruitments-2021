@@ -49,3 +49,23 @@ These links might give you a direction
 3. Bonus points if the application supports multiple languages.
 4. Bonus points if it's scalable in terms of ease of adding support to different languages.
 
+## Task ID: Editor.js Code Tool
+#### `open source`, `javascript`
+
+Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
+
+Tag: `Medium`
+
+### Description
+[Editor.js](https://editorjs.io/) is an open source library that allows us to easily integrate a text editor in our web applications. It’s a “block styled” editor, i.e. it creates separate blocks for different elements that can be included in the editor. It also allows us to create custom plugins or tools using which we can add our own blocks to the editor. Currently to include code examples in the editor, there is an official tool available at https://github.com/editor-js/code. But it does not support language selection, and syntax highlighting. This task involves creating a similar plugin which supports these features
+
+### Useful resources:
+* https://editorjs.io/creating-a-block-tool
+* https://microsoft.github.io/monaco-editor/
+
+### Tips
+1. Follow good programming principles.
+2. Bonus points for any additional features.
+
+
+
