@@ -22,3 +22,30 @@ Tag: `Difficulty Level`
 
 ### Tips
 1. Any tips about the task/evaluation.
+
+## Task ID: Remote Code Execution Engine
+#### `web development`
+
+Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
+
+Tag: `Hard`
+
+### Description
+Remote Code execution engine (RCEE) allows users to run their code submitted through an API request in a secure environment. There are many popular services like Leetcode, GeeksForGeeks, code playgrounds, online compilers/interpreters, etc. that have implemented their own versions of RCEE using different architectures.
+
+Your task is to build a remote code execution engine and a web application, through which users can submit a code snippet in the language of their choice, run it, and view the output after execution. Things to consider: latency, security, isolation.
+
+Example: https://www.programiz.com/python-programming/online-compiler/
+
+### Useful resources:
+These links might give you a direction
+* https://www.software.ac.uk/blog/2017-11-23-executing-python-code-submitted-web-service
+* https://docs.docker.com
+* https://github.com/firecracker-microvm/firecracker
+
+### Tips
+1. You are not limited by any language or technology.
+2. UI can be kept basic.
+3. Bonus points if the application supports multiple languages.
+4. Bonus points if it's scalable in terms of ease of adding support to different languages.
+
