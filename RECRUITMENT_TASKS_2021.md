@@ -182,3 +182,24 @@ Create a simple web scraper, It should take the URL and scrape the useful data f
 ### Useful resources:
 * Nodejs - https://nodejs.org/en/docs/
 * Frontend (HTML, CSS, JS) - https://www.w3schools.com/
+
+## Task ID: Multiplayer Game
+#### `websockets`
+
+Mentors: [@gaurav2699](https://github.com/gaurav2699) (+91 8197289706)
+
+Tag: `Medium`
+
+### Description
+* Create a real time multiplayer game of your choice like Tic Tac Toe.
+* Users should be able to invite friends to play the game using link or the room code.
+
+
+### Useful resources:
+* https://www.tutorialspoint.com/websockets/index.htm
+* https://www.npmjs.com/package/websocket
+
+### Tips
+1. Bonus points for a more complex game.
+2. Bonus points for addditional features like leaderboard and chat.
+
