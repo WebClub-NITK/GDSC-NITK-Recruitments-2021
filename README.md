@@ -38,7 +38,7 @@
 Fill this [form](https://forms.gle/C1b8Bb1uUkFfFAYM9) on or before the deadline date.
 
 ### Contact
-In case of further queries post in the [Recruitment WhatsApp group](to be updated) or contact:
+In case of further queries post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/Kfto61NX947409PYs36gyC) or contact:
 * Adarsh Naidu (+91 8618773543)
 * Sriram Rao (+91 7975610644)
 * Sushanth Sathesh Rao (+91 9916738256)
