@@ -225,3 +225,25 @@ Tag: `Easy`
 1. You may choose any framework for implementation.
 2. Bonus points will be given for deploying the Web App to the cloud.
 
+## Task ID: Web Terminal
+#### `containers` `web development`
+
+Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960)
+
+Tag: `Hard`
+
+### Description
+A lot of websites provide personalised sandboxed linux environments for users to explore and learn different technologies right through their browser without any installation. This is achieved by giving them access to a container running on their server.
+
+Your task is to build a website that provides a terminal through which users can remotely interact and execute commands on a linux container running on the server. A new container should spawn for every user visiting the website. 
+
+### Useful resources:
+1.  https://docs.docker.com/
+2. https://xtermjs.org/
+
+
+### Tips
+1. UI can be kept basic.
+2. Bonus points for considering latency, security and resource utilisation.
+
+
