@@ -203,3 +203,24 @@ Tag: `Medium`
 1. Bonus points for a more complex game.
 2. Bonus points for addditional features like leaderboard and chat.
 
+## Task ID: Lazy Loading
+#### `frontend` `UI/Ux`
+
+Mentors: [@gaurav2699](https://github.com/gaurav2699) (+91 8197289706)
+
+Tag: `Easy`
+
+### Description
+* Create a Web Application that should implement lazy loading on an image dataset and display only a few images on the screen at a time.
+* The number of images to be shown in one scroll should be decided based on the User Experience.
+* The image dataset should contain at least 100 images
+
+
+### Useful resources:
+* https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading
+* https://reactjs.org/docs/code-splitting.html
+
+### Tips
+1. You may choose any framework for implementation.
+2. Bonus points for addditional features like leaderboard and chat.
+
