@@ -306,3 +306,22 @@ Create an application which allows a user to take down notes. The app must suppo
 ### Tips
 1. You can implement the application in any framework of your choice
 2. You can use any library to support markdown based text editor and renderer
+
+## Task ID: CRUD API
+#### `APIs` `Web development` `GraphQL`
+
+Mentors: [@Adharsh Kamath](https://github.com/adharshkamath) (+91 75877 30714), [@Niraj](https://github.com/Nirajn2311)  (+91 81974 16082)
+
+Tag: `Medium`
+
+### Description
+Create a simple CRUD app to manage employees in a organization. The app should allow an employer to create, read, update and delete any employee datails. Bonus points if GraphQL is used for the communication between the frontend and the backend.
+
+### Useful resources:
+* https://graphql.org/learn/
+* https://nordicapis.com/crud-vs-rest-whats-the-difference/
+* https://www.restapitutorial.com/
+
+### Tips
+1. You can implement the application in any framework of your choice
+2. Any useful additional feature will have bonus points.
