@@ -219,8 +219,9 @@ Tag: `Easy`
 ### Useful resources:
 * https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading
 * https://reactjs.org/docs/code-splitting.html
+* https://angular.io/guide/lazy-loading-ngmodules
 
 ### Tips
 1. You may choose any framework for implementation.
-2. Bonus points for addditional features like leaderboard and chat.
+2. Bonus points will be given for deploying the Web App to the cloud.
 
