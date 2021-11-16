@@ -54,7 +54,7 @@ Tag: `Medium`
 ## Task ID: Mail Box
 #### `Web Development` `App Development` `APIs`
 
-Mentors: @[Adharsh Kamath](https://github.com/adharshkamath), Niraj
+Mentors: [@Adharsh Kamath](https://github.com/adharshkamath) (+91 82966 78775), [@Niraj](https://github.com/Nirajn2311)  (+91 81974 16082)
 
 Tag: `Easy`
 
@@ -155,7 +155,7 @@ Discord is a popular real-time messaging platform with robust support for progra
 ## Task ID: Web Scraper
 #### `Backend` `Frontend`
 
-Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), Ikjot
+Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), [@Ikjot](https://github.com/ikjot-2605) (+91 98859 20911)
 
 Tag: `Easy`
 
@@ -212,7 +212,7 @@ Tag: `Easy`
 ## Task ID: Web Terminal
 #### `containers` `web development`
 
-Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), Ikjot
+Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), [@Ikjot](https://github.com/ikjot-2605) (+91 98859 20911)
 
 Tag: `Hard`
 
@@ -252,6 +252,7 @@ Create a mobile application where users can scan images with text and if the tex
 #### `Security` `Web Development` `OAuth`
 
 Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+
 Tag: `Hard`
 
 ### Description
@@ -272,6 +273,7 @@ Create a web application that implements multi factor authentication. Expose RES
 #### `App Development` `Websockets`
 
 Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+
 Tag: `Medium`
 
 ### Description
@@ -290,6 +292,7 @@ Create a mobile phone application which streams realtime stock prices of selecte
 #### `App Development`
 
 Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+
 Tag: `Easy`
 
 ### Description
