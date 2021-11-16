@@ -26,7 +26,7 @@ Tag: `Difficulty Level`
 ## Task ID: Remote Code Execution Engine
 #### `web development`
 
-Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
+Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543), [@GunukulaNiharika](https://github.com/GunukulaNiharika) (+91 9014873349)
 
 Tag: `Hard`
 
@@ -52,7 +52,7 @@ These links might give you a direction
 ## Task ID: Editor.js Code Tool
 #### `open source`, `javascript`
 
-Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543)
+Mentors: [@AdarshNaidu](https://github.com/AdarshNaidu) (+91 8618773543), [@GunukulaNiharika](https://github.com/GunukulaNiharika) (+91 9014873349)
 
 Tag: `Medium`
 
@@ -70,7 +70,7 @@ Tag: `Medium`
 ## Task ID: Mail Box
 #### `Web Development` `App Development` `APIs`
 
-Mentors: [@GunukulaNiharika](https://github.com/GunukulaNiharika) (+91 9014873349)
+Mentors: @[Adharsh Kamath](https://github.com/adharshkamath), Niraj
 
 Tag: `Easy`
 
@@ -171,7 +171,7 @@ Discord is a popular real-time messaging platform with robust support for progra
 ## Task ID: Web Scraper
 #### `Backend` `Frontend`
 
-Mentors: [@GunukulaNiharika](https://github.com/GunukulaNiharika) (+91 9014873349)
+Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), Ikjot
 
 Tag: `Easy`
 
@@ -228,7 +228,7 @@ Tag: `Easy`
 ## Task ID: Web Terminal
 #### `containers` `web development`
 
-Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960)
+Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), Ikjot
 
 Tag: `Hard`
 
