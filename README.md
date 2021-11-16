@@ -9,6 +9,25 @@
 * **Visit** : [Tasks](./RECRUITMENT_TASKS_2021.md)
 * Submission Deadline: **30th Nov, 2021**
 
+### Table of contents
+| Task      | Link |
+| ----------- | ----------- |
+| Remote code execution engine      | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-remote-code-execution-engine       |
+| Editor.js Code Toll   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-editorjs-code-tool        |
+| Mail Box   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-mail-box        |
+| IRIS Mobile App Design   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-iris-mobile-app-design        |
+| Progressive Web application with OAuth   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-progressive-web-application-with-oauth        |
+| Discord Dictionary Bot   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-discord-dictionary-bot        |
+| Web scraper   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-web-scraper        |
+| Multiplayer Game   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-multiplayer-game        |
+| Lazy Loading   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-lazy-loading        |
+| Web Terminal   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-web-terminal        |
+| Scanner   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-scanner        |
+| Multi-Factor Authentication   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-multi-factor-authentication        |
+| Stock Trading App   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-stock-trading-app        |
+| Markdown Notes   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-markdown-notes        |
+
+
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
 	* There is **no limit** to the number of candidates that can apply for a task.
