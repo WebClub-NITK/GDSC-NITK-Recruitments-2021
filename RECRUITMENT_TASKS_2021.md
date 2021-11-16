@@ -264,3 +264,58 @@ Create a mobile application where users can scan images with text and if the tex
 1. You can use any OCR library to scan text from images
 2. Use regular expressions to find URL's and phone numbers
 
+## Task ID: Multi-Factor Authentication
+#### `Security` `Web Development` `OAuth`
+
+Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+Tag: `Hard`
+
+### Description
+Create a web application that implements multi factor authentication. Expose REST APIs for interacting with this backend application using any software. Bonus points will be given based on the number of ways in which a user can sign in, similar to Google Sign In. Bonus points will also be given for implementing OAuth 2.0 in your web application.
+
+### Useful resources:
+* https://medium.com/@ksarthak4ever/django-two-factor-authentication-2ece42748610
+* https://www.honeybadger.io/blog/multi-factor-2fa-authentication-rails-webauthn-devise/
+* https://www.twilio.com/docs/authy/tutorials/two-factor-authentication-node-express
+* https://oauth.net/2/
+* https://developers.google.com/identity/protocols/oauth2
+
+### Tips
+1. You can use any library to implement multi factor authentication
+2. You can start by implementing `TOTP` based authentication
+
+## Task ID: Stock Trading App
+#### `App Development` `Websockets`
+
+Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+Tag: `Medium`
+
+### Description
+Create a mobile phone application which streams realtime stock prices of selected stocks based on users selection/interaction with the app. There must be an authentication system, maybe you could use Firebase Auth service, after which only would they get access to the data. Users must be able to store a list of stocks, prices of which they are interested in viewing. Bonus points will be given for implementing a simple recommendation system for stocks. You can use any free realtime API to stream the results, such as, https://finnhub.io/docs/api/websocket-trades
+
+### Useful resources:
+* https://docs.flutter.dev/cookbook/networking/web-sockets
+* https://camposha.info/android-examples/android-websocket/
+* https://finnhub.io/docs/api/websocket-trades
+
+### Tips
+1. You can implement the application in any framework of your choice
+2. You can use any library to support web socket protocol
+
+## Task ID: Markdown Notes
+#### `App Development`
+
+Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+Tag: `Easy`
+
+### Description
+Create an application which allows a user to take down notes. The app must support Markdown format for storing and rendering notes written down by the user. Implement an appealing and visually soothing interface. Bonus points will be given for implementing an authentication system
+
+### Useful resources:
+* https://medium.com/aubergine-solutions/creating-a-note-taking-app-in-flutter-dart-f50852993cd0
+* https://codesource.io/build-a-note-taking-application-using-kotlin/
+* https://medium.com/theotherdev-s/starting-with-flutter-showing-markdown-6de94933f75a
+
+### Tips
+1. You can implement the application in any framework of your choice
+2. You can use any library to support markdown based text editor and renderer
