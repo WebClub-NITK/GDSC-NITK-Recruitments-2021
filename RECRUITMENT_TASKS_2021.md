@@ -246,4 +246,21 @@ Your task is to build a website that provides a terminal through which users can
 1. UI can be kept basic.
 2. Bonus points for considering latency, security and resource utilisation.
 
+## Task ID: Scanner
+#### `App Development` `OCR` `Regular expressions`
+
+Mentors: [@viveshCodes](https://github.com/viveshCodes) (+91 7462942781), [@Ashwin901](https://github.com/Ashwin901) (+91 9035797138)
+
+Tag: `Medium`
+
+### Description
+Create a mobile application where users can scan images with text and if the text consists of URL or phone numbers it should be displayed. If it's a URL open the website in browser and if it's a phone number you can save it as a contact.
+
+### Useful resources:
+1. https://pub.dev/packages/google_ml_kit
+2. https://www.geeksforgeeks.org/write-regular-expressions/
+
+### Tips
+1. You can use any OCR library to scan text from images
+2. Use regular expressions to find URL's and phone numbers
 
