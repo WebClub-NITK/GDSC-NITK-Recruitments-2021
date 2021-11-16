@@ -180,7 +180,7 @@ Mentors: [@Naman](https://github.com/namanmanish) (+91 9429504960), [@Ikjot](htt
 Tag: `Easy`
 
 ### Description
-Create a simple web scraper, It should take the URL and scrape the useful data from the website using Nodejs (Feel free to use any framework).
+Create a simple web scraper, It should take the URL and scrape the useful data from the website using Nodejs (Feel free to use any framework). Here keep some things generic like displaying the title etc. rest you can customize it according to the page you want to demo. 
 * Create Simple UI to take URL as input and display extracted data.
 
 ### Useful resources:
