@@ -7,7 +7,7 @@
 #
 ### Recruitment Tasks
 * **Visit** : [Tasks](./RECRUITMENT_TASKS_2021.md)
-* Submission Deadline: **to be updated**
+* Submission Deadline: **30th Nov, 2021**
 
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
@@ -35,7 +35,7 @@
 
 
 ### Submission
-Fill this [form](to be updated) on or before the deadline date.
+Fill this [form](https://forms.gle/C1b8Bb1uUkFfFAYM9) on or before the deadline date.
 
 ### Contact
 In case of further queries post in the [Recruitment WhatsApp group](to be updated) or contact:
