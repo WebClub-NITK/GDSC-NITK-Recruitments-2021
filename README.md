@@ -13,7 +13,7 @@
 | Task      | Link |
 | ----------- | ----------- |
 | Remote code execution engine      | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-remote-code-execution-engine       |
-| Editor.js Code Toll   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-editorjs-code-tool        |
+| Editor.js Code Tool   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-editorjs-code-tool        |
 | Mail Box   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-mail-box        |
 | IRIS Mobile App Design   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-iris-mobile-app-design        |
 | Progressive Web application with OAuth   | https://github.com/WebClub-NITK/GDSC-NITK-Recruitments-2021/blob/main/RECRUITMENT_TASKS_2021.md#task-id-progressive-web-application-with-oauth        |
