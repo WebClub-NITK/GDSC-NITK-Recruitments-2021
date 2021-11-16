@@ -7,22 +7,6 @@
 * Mention the Task ID attempted in the README of your private GitHub repository.
 * Read the instructions, evaluation criteria and submission details [here](./README.md)
 
-## Task ID: <Name_of_the_task>
-#### `tag0` `tag1` `...`
-
-Mentors: [@GitHub handle](https://github.com) (+xx <mobile_number>)
-
-Tag: `Difficulty Level`
-
-### Description
-* Description of the task
-
-### Useful resources:
-* Useful resources which would help candidates attempt the task
-
-### Tips
-1. Any tips about the task/evaluation.
-
 ## Task ID: Remote Code Execution Engine
 #### `web development`
 
