@@ -81,8 +81,8 @@ Tag: `Easy`
 ### Description
 Build a Mobile application or a Web application to fetch emails using Gmail API.
 Functionalities that app should contain:
-* User should be to create an account using Email.
-* Use GMAIL api to fetch the mails.
+* User should be able to login using gmail id.
+* Use GMAIL api to fetch the emails.
 * Bonus : User should be able to send emails.
 
 ### Useful resources:
