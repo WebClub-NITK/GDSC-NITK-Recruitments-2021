@@ -271,7 +271,7 @@ Create a mobile application where users can scan images with text and if the tex
 ## Task ID: Multi-Factor Authentication
 #### `Security` `Web Development` `OAuth`
 
-Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+Mentors: [@Sushanth](https://github.com/raosush) (+91 9916738256), [@Abhishek Kumar](https://github.com/abhishekkumar2718) (+91 75877 30714)
 
 Tag: `Hard`
 
@@ -292,7 +292,7 @@ Create a web application that implements multi factor authentication. Expose RES
 ## Task ID: Stock Trading App
 #### `App Development` `Websockets`
 
-Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
+Mentors: [@Sushanth](https://github.com/raosush) (+91 9916738256), [@Abhishek Kumar](https://github.com/abhishekkumar2718) (+91 75877 30714)
 
 Tag: `Medium`
 
@@ -311,8 +311,7 @@ Create a mobile phone application which streams realtime stock prices of selecte
 ## Task ID: Markdown Notes
 #### `App Development`
 
-Mentors: [@Abhishek Kumer](https://github.com/abhishekkumar2718) (+91 75877 30714), [@Sushanth](https://github.com/raosush) (+91 9916738256)
-
+Mentors: [@Sushanth](https://github.com/raosush) (+91 9916738256), [@Abhishek Kumar](https://github.com/abhishekkumar2718) (+91 75877 30714)
 Tag: `Easy`
 
 ### Description
