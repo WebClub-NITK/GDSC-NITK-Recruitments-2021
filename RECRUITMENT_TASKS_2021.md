@@ -312,6 +312,7 @@ Create a mobile phone application which streams realtime stock prices of selecte
 #### `App Development`
 
 Mentors: [@Sushanth](https://github.com/raosush) (+91 9916738256), [@Abhishek Kumar](https://github.com/abhishekkumar2718) (+91 75877 30714)
+
 Tag: `Easy`
 
 ### Description
@@ -329,7 +330,7 @@ Create an application which allows a user to take down notes. The app must suppo
 ## Task ID: CRUD API
 #### `APIs` `Web development` `GraphQL`
 
-Mentors: [@Adharsh Kamath](https://github.com/adharshkamath) (+91 75877 30714), [@Niraj](https://github.com/Nirajn2311)  (+91 81974 16082)
+Mentors: [@Adharsh Kamath](https://github.com/adharshkamath) (+91 82966 78775), [@Niraj](https://github.com/Nirajn2311)  (+91 81974 16082)
 
 Tag: `Medium`
 
